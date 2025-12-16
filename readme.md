@@ -75,7 +75,7 @@ ecommerce-compose-project/
 └── README.md
 └── ScreenShots              
 ```
-![Project Structure]()
+![Project Structure](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/cbfbda22c23c04a15c18df08c5de2e42bf15a5f6/ScreenShots/Project%20Structure.png)
 
 ---
 
@@ -179,8 +179,10 @@ CREATE TABLE products (
 docker compose up --build
 ```
 
-📸 **Screenshot:** Build & running containers
-`screenshots/docker-compose-build.png`
+![Build1](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/cbfbda22c23c04a15c18df08c5de2e42bf15a5f6/ScreenShots/Build%201.png)
+![Build2]()
+
+![Build2]()
 
 ---
 
