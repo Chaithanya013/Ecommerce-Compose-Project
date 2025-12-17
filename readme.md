@@ -180,9 +180,17 @@ docker compose up --build
 ```
 
 ![Build1](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/cbfbda22c23c04a15c18df08c5de2e42bf15a5f6/ScreenShots/Build%201.png)
-![Build2]()
 
-![Build2]()
+![Build2](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Build%202.png)
+
+![Build3](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Build%203.png)
+
+![Build4](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Build%204.png)
+
+![Build5](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Build%205.png)
+
+![Build6](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Build%206.png)
+
 
 ---
 
@@ -192,6 +200,8 @@ docker compose up --build
 docker ps
 ```
 
+![Docker ps](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Docker%20PS.png)
+
 ---
 
 ### 3.Access Services
@@ -199,9 +209,9 @@ docker ps
 * FastAPI root: [http://localhost:8000](http://localhost:8000)
 * Products API: [http://localhost:8000/products](http://localhost:8000/products)
 
-📸 **Screenshots:**
-`screenshots/localhost-8000.png`
-`screenshots/localhost-8000-products.png`
+![LocalHost8000](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/localhost%208000.png)
+
+![LocalHost8000/Product](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/local%20host8000prod.png)
 
 ---
 
@@ -209,9 +219,9 @@ docker ps
 
 * URL: [http://localhost:5050](http://localhost:5050)
 
-📸 **Screenshots:**
-`screenshots/pgadmin-login.png`
-`screenshots/pgadmin-dashboard.png`
+![LocalHost5050 Login](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/localhost5050login.png)
+
+![LocalHost5050 DashBoard](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/localhost5050Dashboard.png)
 
 ---
 
@@ -235,8 +245,7 @@ Expected output:
 PONG
 ```
 
-📸 **Screenshots:**
-`screenshots/redis-cli.png`
+![RedisCache](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/rediscache.png)
 
 ---
 
@@ -280,15 +289,16 @@ docker push <dockerhub-username>/ecommerce-api:latest
 docker push <dockerhub-username>/ecommerce-worker:latest
 ```
 
+![DockerPush1](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Docker%20Push1.png)
+
+![DockerPush2](https://github.com/Chaithanya013/Ecommerce-Compose-Project/blob/4bff074ee00de3715b3c4279fa5b7d8415eda3ae/ScreenShots/Docker%20Push%202.png)
+
 ### Pull Images
 
 ```bash
 docker pull <dockerhub-username>/ecommerce-api:latest
 docker pull <dockerhub-username>/ecommerce-worker:latest
 ```
-
-📸 **Screenshot:** Docker push success
-`screenshots/docker-push.png`
 
 ---
 
@@ -318,7 +328,9 @@ This project demonstrates how Docker Compose can be used to build and manage a s
 
 ---
 
-## Developer Details
+### Developer 
 
-**Chaithanya**
-Docker • DevOps • Backend Engineering
+**Name:** Venuthurla Siva Chaithanya  
+**Email:**  chaithanyav.0203@gmail.com
+**GitHub:** [@Chaithanya013](https://github.com/Chaithanya013)
+**Dockerhub:** https://hub.docker.com/u/chaithanya013
